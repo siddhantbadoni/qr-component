@@ -8,7 +8,8 @@ I choose this  QR component challenge to  learn flexbox and other some syling pr
 
 ### Screenshot
 
-/screenshots/desktop-view.png
+![desktopview!](/screenshot/desktop-view.png)
+![phone-view!](/screenshot/phone-view.png)
 
 
 ### Built with
