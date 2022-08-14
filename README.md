@@ -41,7 +41,8 @@ radius property.
     min-width: 23%;
 }
 ```
-
+### website
+ https://siddhantbadoni.github.io/qr-component/
 
 ### Continued development
 I want to focusing on advance css, bootstrap ,javascript and react framework further.

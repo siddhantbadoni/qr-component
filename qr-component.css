@@ -28,15 +28,17 @@ body {
     align-items: center;
     flex-direction: column;
     
+    
 }
 
-img {
+.imagecontainer  {
 
     width: 251px;
     height: 243px;
     border-radius: 4%;
     margin-top: 26px;
     margin-bottom: 18px;
+    
 }
 
 h2 {
